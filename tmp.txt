@@ -1,0 +1,2 @@
+47621 ttys005    0:00.00 grep python
+40678 ttys007    0:04.00 /opt/homebrew/Cellar/python@3.9/3.9.7/Frameworks/Python.framework/Versions/3.9/Resources/Python.app/Contents/MacOS/Python -m http.server 8080
